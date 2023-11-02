@@ -12,3 +12,5 @@ the following variables:
    num_angles - the number of projection angles in the X-ray CT measurement setup
    num_detectors - the number of detectors in the X-ray CT measurement setup
    num_pixels - the square image to be reconstructed is num_pixels x num_pixels
+
+These matrices represent the actual forward and back projections in X-ray CT.
