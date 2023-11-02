@@ -14,3 +14,4 @@ the following variables:
    num_pixels - the square image to be reconstructed is num_pixels x num_pixels
 
 These matrices represent the actual forward and back projections in X-ray CT.
+ 
